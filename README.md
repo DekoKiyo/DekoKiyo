@@ -1,3 +1,5 @@
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DekoKiyo&theme=onedark)
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DekoKiyo&theme=onedark" />
   <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=DekoKiyo&theme=onedark&show_icons=true" />
