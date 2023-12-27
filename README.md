@@ -1,3 +1,7 @@
+Japanese LSPDFR Plugin Developer<br/>
+[Twitter](https://twitter.com/DekoKiyomori)<br/>
+[Patreon](https://www.patreon.com/DekoKiyo)<br/>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DekoKiyo&theme=onedark)
 
 <p align="left"> 
