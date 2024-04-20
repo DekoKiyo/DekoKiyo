@@ -10,7 +10,7 @@ Japanese LSPDFR Plugin/Callouts Developer<br/>
   <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=DekoKiyo&theme=onedark&show_icons=true" />
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=DekoKiyo&theme=onedark)]
+![trophy](https://github-profile-trophy.vercel.app/?username=DekoKiyo&theme=onedark)
 
 ## My Skills
 ![My Skills](https://skillicons.dev/icons?i=ae,au,ai,ps,pr,visualstudio,vscode,unity,unreal,dotnet,cpp,cs,py,nodejs,ts,html,css,md,mysql,twitter,discord,nextjs,nginx,vercel&perline=5)
