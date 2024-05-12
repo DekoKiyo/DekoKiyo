@@ -1,7 +1,8 @@
 ## About me
 Japanese LSPDFR Plugin/Callouts Developer<br/>
 [Twitter](https://twitter.com/DekoKiyomori)<br/>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O5PW269)<br/>
+
+[![ko-fi](https://raw.githubusercontent.com/DekoKiyo/JapaneseCallouts/main/Image/Ko-fi.png)](https://ko-fi.com/dekokiyo)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DekoKiyo&theme=onedark)
 
